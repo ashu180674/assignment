@@ -1,0 +1,20 @@
+Employees who have worked for 7 consecutive days:
+Empty DataFrame
+Columns: [Employee Name, Position ID]
+Index: []
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+                        Employee Name Position ID
+54                   CaMaXaWE, CeghaW   WFS000153
+163                        Xee, XaCar   WFS000200
+277              De Xa Cerda, IgWaciE   WFS000318
+312                  MraW, WiXXiaC Ha   WFS000345
+592                  CEreira Jr, JEse   WFS000456
+1037  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
+1075           HaCiXMEW, DeaWMe DevEW   WFS000536
+1162         REdrigAez, GraWdEW AWgeX   WFS000550
+1328                 SaWchez, ArWAXfE   WFS000577
+
+Employees who have worked for more than 14 hours in a single shift:
+                        Employee Name Position ID
+1036  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
